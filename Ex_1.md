@@ -125,3 +125,5 @@ Choose Next. Finally choose Create alarm.
 ## Free Tier
 
 ## Payment Details added
+
+## AWS alarm and SNS set up in console to notifiy to specified root email address when Free Tier threshold is met
