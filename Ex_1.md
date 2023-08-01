@@ -119,3 +119,9 @@ Enter an alarm name and description.
 The name must contain only ASCII characters.
 
 Choose Next. Finally choose Create alarm.
+
+## Account Created Chalk and Feather
+
+## Free Tier
+
+## Payment Details added
