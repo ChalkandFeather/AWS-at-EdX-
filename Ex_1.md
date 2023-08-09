@@ -127,3 +127,15 @@ Choose Next. Finally choose Create alarm.
 ## Payment Details added and account verified
 
 ## AWS alarm and SNS set up in console to notifiy to specified root email address when Free Tier threshold is met
+
+Ex_1.2
+Authentication-
+
+Delete Your Keys to Stay Safe
+
+If you don't already have an access key for your AWS account root user, don't create one unless you absolutely need to. If you do have an access key for your AWS account root user and want to delete the keys:
+
+Go to the My Security Credentials page in the AWS Management Console and sign in with the root user’s email address and password.
+Open the Access keys section.
+Under Actions, click Delete.
+Click Yes.
